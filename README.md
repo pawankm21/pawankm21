@@ -15,9 +15,10 @@
 <h2 align="center">
   <b>About Me</b>
 </h2>
-
+  
+ ![Metrics](https://metrics.lecoq.io/pawankm21?template=classic&config.timezone=Asia%2FCalcutta)
+  
 - <a href="http://pawankm21.github.io/personal-website"> <b> Portfolio </b> </a> 
- 
 
 - 🔭 I’m currently working on **[Collegium]().**
 
