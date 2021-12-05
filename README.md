@@ -2,6 +2,8 @@
 
 <a href="http://pawankm21.github.io/personal-website"><img src="https://fontmeme.com/permalink/211115/98bfbdd442b6e62899a34f1af6e47e5a.png" alt="times-new-wumpus-font" border="1"  ></a>
 
+  
+  
 <h3 align="center">
   Full stack web developer with a passion for building <b><i>beautiful</i></b> web applications.
 </h3>
@@ -9,13 +11,16 @@
 
 <hr>
 <br>
-
+  
 
 
 <h2 align="center">
   <b>About Me</b>
 </h2>
-  
+  <a href="https://app.daily.dev/pkm">
+    <img align="right" src="https://api.daily.dev/devcards/64225433294b450ba6fb6984afb099db.png?r=6l9" width="200" alt="Pawan Kumar Mishra's Dev Card"/>
+  </a>
+
  ![Metrics](https://metrics.lecoq.io/pawankm21?template=classic&config.timezone=Asia%2FCalcutta)
   
 - <a href="http://pawankm21.github.io/personal-website"> <b> Portfolio </b> </a> 
@@ -98,8 +103,8 @@
 <br/>
 <section align="center">
   
-<img alt="" src="https://github-readme-stats.vercel.app/api?username=pawankm21&theme=github_dark" width="400px" /> 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=pawankm21&theme=dark" alt="pawankm21"  width="400px"/>
-<img alt="" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pawankm21&layout=compact&theme=github_dark" width="400px" /> 
-  
+<!-- <img alt="" src="https://github-readme-stats.vercel.app/api?username=pawankm21&theme=github_dark" width="400px" />  -->
+ <img src="https://github-readme-streak-stats.herokuapp.com/?user=pawankm21&theme=dark" alt="pawankm21"  width="400px"/>
+<!-- <img alt="" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pawankm21&layout=compact&theme=github_dark" width="400px" /> 
+   -->
   </section>
