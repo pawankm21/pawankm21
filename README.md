@@ -102,5 +102,6 @@
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=pawankm21&theme=dark" alt="pawankm21"  width="400px"/>
 <img alt="" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pawankm21&layout=compact&theme=github_dark" width="400px" /> 
 
+  ![metrics](https://metrics.lecoq.io/about/pawankm21)
   
   </section>
